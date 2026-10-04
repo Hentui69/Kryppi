@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+kryppi
+CMakeFiles/
+*.json
+CMakeCache.txt
+Makefile
+.secrets
+.secrets.*
+!.secrets.example
